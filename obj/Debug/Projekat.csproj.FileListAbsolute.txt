@@ -1,0 +1,12 @@
+C:\Users\Korisnik\source\repos\Projekat\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\Korisnik\source\repos\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\Korisnik\source\repos\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\Korisnik\source\repos\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Projekat\Projekat\obj\Debug\Projekat.frmLogin.resources
+C:\Users\Korisnik\source\repos\Projekat\Projekat\obj\Debug\Projekat.frmMain.resources
+C:\Users\Korisnik\source\repos\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Projekat\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Projekat\Projekat\obj\Debug\Projekat.exe
+C:\Users\Korisnik\source\repos\Projekat\Projekat\obj\Debug\Projekat.pdb
+C:\Users\Korisnik\source\repos\Projekat\Projekat\obj\Debug\Projekat.FrmAddMember.resources
